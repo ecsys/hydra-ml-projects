@@ -1,6 +1,6 @@
 train:
   model_path: 'boston_housing/train.py'
-  cloud: "fast_local"
+  cloud: "aws"
   project_name: "test-yx"
   cpu_count: 8
   memory_size: 16
